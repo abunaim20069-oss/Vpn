@@ -1,0 +1,5 @@
+/vendor/
+/.idea/
+.env
+bot_data.json
+user_states.json
